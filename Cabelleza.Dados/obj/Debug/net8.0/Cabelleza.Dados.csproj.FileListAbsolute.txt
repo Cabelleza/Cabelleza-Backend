@@ -1,0 +1,17 @@
+C:\Users\abrah\source\repos\Cabelleza\Cabelleza.Dados\bin\Debug\net8.0\Cabelleza.Dados.deps.json
+C:\Users\abrah\source\repos\Cabelleza\Cabelleza.Dados\bin\Debug\net8.0\Cabelleza.Dados.runtimeconfig.json
+C:\Users\abrah\source\repos\Cabelleza\Cabelleza.Dados\bin\Debug\net8.0\Cabelleza.Dados.dll
+C:\Users\abrah\source\repos\Cabelleza\Cabelleza.Dados\bin\Debug\net8.0\Cabelleza.Dados.pdb
+C:\Users\abrah\source\repos\Cabelleza\Cabelleza.Dados\bin\Debug\net8.0\Cabelleza.Dominio.dll
+C:\Users\abrah\source\repos\Cabelleza\Cabelleza.Dados\bin\Debug\net8.0\Cabelleza.Dominio.pdb
+C:\Users\abrah\source\repos\Cabelleza\Cabelleza.Dados\obj\Debug\net8.0\Cabelleza.Dados.csproj.AssemblyReference.cache
+C:\Users\abrah\source\repos\Cabelleza\Cabelleza.Dados\obj\Debug\net8.0\Cabelleza.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abrah\source\repos\Cabelleza\Cabelleza.Dados\obj\Debug\net8.0\Cabelleza.Dados.AssemblyInfoInputs.cache
+C:\Users\abrah\source\repos\Cabelleza\Cabelleza.Dados\obj\Debug\net8.0\Cabelleza.Dados.AssemblyInfo.cs
+C:\Users\abrah\source\repos\Cabelleza\Cabelleza.Dados\obj\Debug\net8.0\Cabelleza.Dados.csproj.CoreCompileInputs.cache
+C:\Users\abrah\source\repos\Cabelleza\Cabelleza.Dados\obj\Debug\net8.0\Cabellez.6436B0DA.Up2Date
+C:\Users\abrah\source\repos\Cabelleza\Cabelleza.Dados\obj\Debug\net8.0\Cabelleza.Dados.dll
+C:\Users\abrah\source\repos\Cabelleza\Cabelleza.Dados\obj\Debug\net8.0\refint\Cabelleza.Dados.dll
+C:\Users\abrah\source\repos\Cabelleza\Cabelleza.Dados\obj\Debug\net8.0\Cabelleza.Dados.pdb
+C:\Users\abrah\source\repos\Cabelleza\Cabelleza.Dados\obj\Debug\net8.0\Cabelleza.Dados.genruntimeconfig.cache
+C:\Users\abrah\source\repos\Cabelleza\Cabelleza.Dados\obj\Debug\net8.0\ref\Cabelleza.Dados.dll
